@@ -1,4 +1,4 @@
-# LightSwitch
+# RoomController
 
 An old hobby project I used to learn to write a C application on an RPi and interact with peripherals.  The idea was to use an RPi with a encoded rotary switch, a temperature sensor, and a FET to have a product that would act as not only a dimmable light controller but a room temperature sensor.
 
